@@ -4,7 +4,12 @@ __pycache__/
 *$py.class
 
 # JetBrains IDE by PyCharm
-.idea/
+.idea
+*.iml
+*.idea
+*.gz
+src/mnist/MNIST_data/
+src/mnist/MNIST_model/
 
 # C extensions
 *.so
