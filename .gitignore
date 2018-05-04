@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# JetBrains IDE by PyCharm
+.idea/
+
 # C extensions
 *.so
 
