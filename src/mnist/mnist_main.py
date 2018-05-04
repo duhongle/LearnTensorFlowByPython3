@@ -88,7 +88,7 @@ def backward():
 
 def train():
     print("训练数据集")
-    backward(mnist)
+    backward()
 
 
 def validation():
